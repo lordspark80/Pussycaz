@@ -1,0 +1,16 @@
+{
+  "name": "Pussycaz",
+  "description": "Pussycaz is a revolutionary meme token!",
+  "symbol": "PUZ",
+  "uri": "https://raw.githubusercontent.com/lordspark80/Pussycaz/main/pussycaz_metadata.json",
+  "image": "https://raw.githubusercontent.com/lordspark80/Pussycaz/main/pussycaz.png",
+  "seller_fee_basis_points": 666,
+  "creators": [
+    {
+      "address": "2XThbdJWk3DrANtfhrHoW8TLZtcymhpJ7WmdSiHPkEMb",
+      "share": 100,
+      "verified": true
+    }
+  ]
+}
+
